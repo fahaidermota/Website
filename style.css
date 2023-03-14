@@ -1,0 +1,59 @@
+.travel_maindiv{
+    border: 1px solid lightgray;
+}
+.travel_maindiv img{
+    width: 500px;
+}
+.travel_maindiv h5 ,  .travel_maindiv p{
+    margin: 20px;
+}
+.movie_head{
+    border-radius: 10px;
+    font-size: 20;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+}.movie_head i{
+    float: right;
+}
+.achivement_text span{
+    color: orange;
+}
+#contact img{
+    width: 400px;
+}
+.new{
+    margin-bottom: 20px;
+}
+#contact iframe{
+width: 100%;
+}
+#products{
+    color: rgba(83, 14, 94, 0.797);
+    font-size: 200%;
+    font-family: cursive;
+}   
+.contact{
+    color: rgba(83, 14, 94, 0.797);
+    font-size: 200%;
+    font-family: cursive;
+}
+#name{
+    color:  red;
+    font-size: 200%; 
+    font-family: cursive;
+   }
+#knew{
+    color: red;
+    font-size: 200%;
+    font-family: cursive;
+}
+.about{
+    color: blue;
+    font-size: 200%;
+    font-family: cursive;
+}
+.pro{
+    color: rgba(255, 140, 0, 0.835);
+    font-size: 200%;
+   font-family: cursive;
+}
